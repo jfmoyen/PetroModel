@@ -1,8 +1,8 @@
 # library(R6)
 # library(tidyverse)
 
-source("C:\\Users\\moje4671\\Documents\\Recherche\\Zircon_modelling\\Src\\PetroClass_0.2.R")
-setwd("C:/Users/moje4671/Documents/Geol Soft/PerpleX_6.9.0")
+source("D:\\GitProjects\\PetroModel\\PetroClass_0.3.R")
+setwd("U:/Geol Soft/PerpleX_6.9.0")
 
 ## KCG Diorite
 KCGdio<-PerplexModel$new("KCG Diorite")
